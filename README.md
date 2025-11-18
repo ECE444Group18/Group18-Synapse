@@ -18,6 +18,14 @@ The objective of this system is to create a gamified task manager that helps use
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Usage Guide
+1. **Sign up** for an account using username, email and password.  
+2. **Log in** to access your dashboard.  
+3. **Create Tasks** in categories like Personal, Work, Health or Study.
+4. **Create Goals** to plan for future tasks.  
+5. **Manage Friends** by adding or searching for other users to stay connected and compare progress.
+6. **View Pet** to monitor your pet’s growth and see how completing tasks affects its well-being.
+7. **View History** to review previously completed tasks, track progress.
 
 
 ### Project Management Tools
