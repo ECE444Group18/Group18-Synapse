@@ -9,7 +9,6 @@
 -->
 
 
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -26,6 +25,7 @@ The objective of this system is to create a gamified task manager that helps use
 5. **Manage Friends** by adding or searching for other users to stay connected and compare progress.
 6. **View Pet** to monitor your pet’s growth and see how completing tasks affects its well-being.
 7. **View History** to review previously completed tasks, track progress.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
