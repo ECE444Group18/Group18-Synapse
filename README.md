@@ -27,11 +27,6 @@ The objective of this system is to create a gamified task manager that helps use
 6. **View Pet** to monitor your pet’s growth and see how completing tasks affects its well-being.
 7. **View History** to review previously completed tasks, track progress.
 
-
-### Project Management Tools
-
-Linear: https://linear.app/ece344/team/ECE/active
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h2>Built With</h2>
@@ -41,6 +36,10 @@ Linear: https://linear.app/ece344/team/ECE/active
   <li><strong>Tailwind CSS</strong> — for responsive and modern styling</li>
   <li><strong>Prisma</strong>  — for managing user data and tasks</li>
 </ul>
+
+### Project Management Tools
+
+Linear: https://linear.app/ece344/team/ECE/active
 
 <h2>Set up Instructions</h2>
 
